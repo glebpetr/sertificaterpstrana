@@ -1,6 +1,6 @@
 # Сертификат RpStrana
 
-![WEB-Site RpStrana](https://rpstrana.ml/#github)
+![WEB-Site RpStrana](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 
 | Дата | Владелец |
 | ---- | -------- |
